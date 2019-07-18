@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="settings"
+        android:title="Settings">
+
+        <SwitchPreference
+            android:id="@+id/action_enablerecording"
+            android:title="Call Recording Status"
+            android:key="recordingswitch"
+            android:defaultValue="true"/>
+
+        <SwitchPreference
+            android:id="@+id/action_notificationswitch"
+            android:title="Persistent Notification"
+            android:key="notificationswitch"
+            android:defaultValue="true"/>
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

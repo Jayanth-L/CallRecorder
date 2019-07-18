@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:title="Delete"
+        android:id="@+id/action_delete"
+        android:orderInCategory="100" >
+
+        <menu>
+
+            <item
+                android:orderInCategory="100"
+                android:title="Delete Incoming"
+                android:id="@+id/action_deleteincoming" />
+
+            <item
+                android:title="Delete Outgoing"
+                android:orderInCategory="100"
+                android:id="@+id/action_deleteoutgoing" />
+
+        </menu>
+
+    </item>
+
+    <item
+        android:orderInCategory="100"
+        android:title="Delete all Recordings"
+        android:id="@+id/action_deleteallrecordings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_actionbarsettings"
+        android:title="Settings"
+        app:showAsAction="never"
+        android:orderInCategory="100"/>
+
+    <item
+        android:title="Privacy Policy"
+        android:id="@+id/action_privacypolicy"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_opensourcelicenses"
+        android:title="Open Source Licenses"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:title="About"
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:title="Refresh"
+        android:icon="@drawable/ic_refresh_white_24dp"
+        app:showAsAction="always|collapseActionView"/>
+
+</menu>

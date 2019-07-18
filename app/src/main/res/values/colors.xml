@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <color name="colorPrimary">#126815</color>
+    <color name="colorPrimaryDark">#126815</color>
+    <color name="colorAccent">#FF4081</color> -->
+
+    <!--color theming for the intro sider-->
+    <color name="colorsile_1">#009688</color>
+    <color name="colorsilde_2">#795548</color>
+    <color name="colorsilde_3">#3F51B5</color>
+
+    <!--pointer dots color-->
+    <color name="active_dots">#fffafa</color>
+    <color name="inactive_dots">#83878b</color>
+
+    <!--second brown color theme-->
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#795548</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>
