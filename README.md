@@ -15,9 +15,10 @@ however this app should work on android devices with oreo and below except some 
 # Please do not upload it on PlayStore
 This is for educational purposes only!
 
-If you like my work,
+# If you like my work,
 You can buy me a cup of coffee if you like my work.
-Paypal: paypal.me/jayanthlme
+
+Paypal: https://paypal.me/jayanthlme
 
 Author: Jayanth L
 
