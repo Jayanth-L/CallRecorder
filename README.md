@@ -1,5 +1,5 @@
 # CallRecorder
-Open source sapp for CallRecording
+Open source app for CallRecording
 
 This project might help you in learning android/java/kotlin programming!
 
@@ -8,7 +8,7 @@ This project might help you in learning android/java/kotlin programming!
 
 Any pull requests are welcome!
 
-# Notice foro targeting Android pie and above
+# Notice for targeting Android pie and above
 from android pie i.e; api level 28, AOSP has removed Call recording Stream Api from AOSP, so it won't work on pie + devices
 however this app should work on android devices with oreo and below except some OEM devices.
 
